@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 本地扫描产物（含个人/证件内容，不上传）
+test-output/
+*.pdf
+*.tif
+*.tiff
